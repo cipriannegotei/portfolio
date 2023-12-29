@@ -1,7 +1,7 @@
 # SQL Developer
 
 ### Education
-Accounting Audit and Information Systems, MAster Degree
+Accounting Audit and Information Systems, Master Degree
 
 ### Work experience
 
