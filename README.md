@@ -30,5 +30,8 @@ WEB DESIGNER @ LINK ACADEMY
 - Collaborated on projects to create landing pages and images foronline content;
 - Developed website mock-ups for clients to ensure quality control and client satisfaction before the project.
 
-{https://replit.com/@negoteiciprian1/Geometry-Game}
+[Your Link Here]{https://replit.com/@negoteiciprian1/Geometry-Game}
+
+![FotoID](https://github.com/cipriannegotei/portfolio/assets/65068222/0f4df175-bf3a-4d71-a5c1-d4f28d06e557)
+
 
