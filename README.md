@@ -30,3 +30,5 @@ WEB DESIGNER @ LINK ACADEMY
 - Collaborated on projects to create landing pages and images foronline content;
 - Developed website mock-ups for clients to ensure quality control and client satisfaction before the project.
 
+https://replit.com/@negoteiciprian1/Geometry-Game
+
